@@ -1,0 +1,16 @@
+Tugas 1 Penginderaan Visual Robot
+Dosen Pengampuh Mata Kuliah :
+    *Ir. Muhammad Akil, S.Pd., M.T., IPM.
+    *Aulia Sabril, S.T., M.T.
+
+Perbedaan GIT dan GITHUB
+Git adalah sistem kontrol versi distribusi yang digunakan untuk melacak perubahan dalam suatu proyek perangkat lunak selama pengembangan perangkat lunak. 
+Ini memungkinkan beberapa pengembang bekerja secara bersamaan pada proyek yang sama dan memungkinkan pemantauan dan pengelolaan versi perangkat lunak dengan efisien. 
+Git dikembangkan oleh Linus Torvalds, pembuat Linux, dan menjadi sangat populer di kalangan pengembang perangkat lunak karena kecepatan, fleksibilitas, dan kemampuan kerja secara terdistribusi.
+
+Di sisi lain GitHub adalah platform web yang memanfaatkan Git untuk menyediakan repositori kode sumber terpusat dan menyediakan berbagai fitur kolaborasi untuk pengembang perangkat lunak. 
+GitHub memungkinkan pengembang untuk menyimpan, berbagi, dan mengelola proyek perangkat lunak secara efisien. 
+Fitur-fitur GitHub meliputi pelacakan isu (issue tracking), manajemen proyek, forum diskusi, dan kemampuan untuk melakukan kolaborasi dengan pengembang lain melalui pull requests.
+
+Jadi, secara singkat, Git adalah sistem kontrol versi, sedangkan GitHub adalah platform yang memanfaatkan Git untuk menyediakan repositori dan berbagai alat kolaborasi untuk pengembangan perangkat lunak.
+GitHub menjadi sangat populer di komunitas pengembangan perangkat lunak karena menyediakan lingkungan kolaboratif yang kuat dan memudahkan manajemen proyek bersama-sama dengan sistem kontrol versi Git.
